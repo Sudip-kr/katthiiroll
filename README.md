@@ -32,12 +32,12 @@ This project was developed as part of the CA2 Activity for Web Development Using
 * MySQL
 * XAMPP
 
----
+
 
 ## Project Structure
 
-```text
-khati-roll-express/
+
+khati-roll/
 │
 ├── index.php
 ├── menu.php
@@ -53,9 +53,7 @@ khati-roll-express/
 │
 ├── uploads/
 └── assets/
-```
 
----
 
 ## Database Tables
 
@@ -92,13 +90,7 @@ Stores menu details including:
 4. Import the SQL file.
 5. Update database details in `db.php`.
 6. Start Apache and MySQL.
-7. Open the browser and visit:
-
-```
-http://localhost/khati-roll-express
-```
-
----
+7. Open the browser it.
 
 ## Future Improvements
 
